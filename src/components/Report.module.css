@@ -1,0 +1,18 @@
+.Report-flex {
+  display: flex;
+  justify-content: space-around;
+  border-radius: 8px;
+  align-content: center;
+  width: auto;
+  height: 120px;
+  flex-wrap: wrap;
+}
+.design {
+  color: white;
+  background-color: black;
+  width: 7rem;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+}

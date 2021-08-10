@@ -1,0 +1,17 @@
+.sideBar-main {
+  background-color: rgb(49, 90, 133);
+  height: 75rem;
+  color: white;
+  margin: 0;
+}
+li {
+  list-style-type: none;
+  padding: 1.1rem;
+  color: white;
+}
+ul {
+  margin-left: -3rem;
+}
+li a {
+  text-decoration: none;
+}

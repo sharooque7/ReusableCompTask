@@ -1,0 +1,9 @@
+.display-flex {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.item {
+  margin-left: 10px;
+  flex-grow: 1;
+}
